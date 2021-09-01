@@ -1,5 +1,5 @@
-# TODO: Write docstring here
-# This program is a hype machine for whoever runs the code.
+# TODO: This program is a hype machine for whoever runs the code.
+
 # TODO: Initialize __author__ variable here
 __author__ = "730384041"
 # TODO: Implement your program logic here

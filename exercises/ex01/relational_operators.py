@@ -2,27 +2,27 @@
 __author__ = "730384041"
 
 
-left : str = input("Left-hand side: ")
-right : str = input("Left-hand side: ")
-left : int(left)
-right : int(right)
+left: str = input("Left-hand side: ")
+right: str = input("Right-hand side: ")
+left1: int(left)
+right1: int(right)
 
-if left < right:
-    print(str(left) + " < " + str(right) + " is True")
+if left1 < right1:
+    print(left + " < " + right + " is True")
 else:
-    print(str(left) + " < " + str(right) + " is False")
+    print(left + " < " + right + " is False")
 
-if left >= right:
-    print(str(left) + " >= " + str(right) + " is True")
+if left1 >= right1:
+    print(left + " >= " + right + " is True")
 else:
-    print(str(left) + " >= " + str(right) + " is False")
+    print(left + " >= " + right + " is False")
 
-if left == right:
-    print(str(left) + " == " + str(right) + " is True")
+if left1 == right1:
+    print(left + " == " + right + " is True")
 else:
-    print(str(left) + " == " + str(right) + " is False")
+    print(left + " == " + right + " is False")
 
-if left != right:
-    print(str(left) + " != " + str(right) + " is True")
+if left1 != right1:
+    print(left + " != " + right + " is True")
 else:
-    print(str(left) + " != " + str(right) + " is False")
+    print(left + " != " + right + " is False")
