@@ -4,25 +4,25 @@ __author__ = "730384041"
 
 left: str = input("Left-hand side: ")
 right: str = input("Right-hand side: ")
-left1: int(left)
-right1: int(right)
+left1 = int(left)
+right1 = int(right)
 
 if left1 < right1:
-    print(left + " < " + right + " is True")
+    print(str(left) + " < " + str(right) + " is True")
 else:
-    print(left + " < " + right + " is False")
+    print(str(left) + " < " + str(right) + " is False")
 
 if left1 >= right1:
-    print(left + " >= " + right + " is True")
+    print(str(left) + " >= " + str(right) + " is True")
 else:
-    print(left + " >= " + right + " is False")
+    print(str(left) + " >= " + str(right) + " is False")
 
 if left1 == right1:
-    print(left + " == " + right + " is True")
+    print(str(left) + " == " + str(right) + " is True")
 else:
-    print(left + " == " + right + " is False")
+    print(str(left) + " == " + str(right) + " is False")
 
 if left1 != right1:
-    print(left + " != " + right + " is True")
+    print(str(left) + " != " + str(right) + " is True")
 else:
-    print(left + " != " + right + " is False")
+    print(str(left) + " != " + str(right) + " is False")
