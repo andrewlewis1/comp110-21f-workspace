@@ -1,4 +1,4 @@
-# This program is a hype machine for whoever runs the code.
+"""This program is a hype machine for whoever runs the code."""
 
 # Initialize __author__ variable here
 __author__ = "730384041"
