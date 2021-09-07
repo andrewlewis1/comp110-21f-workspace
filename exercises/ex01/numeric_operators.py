@@ -1,4 +1,4 @@
-# This program shows how the four numerical operators work in Python
+# This program shows how the four numerical operators work in Python.
 __author__ = "730384041"
 
 
