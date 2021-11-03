@@ -77,7 +77,7 @@ def concat(first_table: dict[str, list[str]], second_table: dict[str, list[str]]
 
 
 def count(items: list[str]) -> dict[str, int]:
-    """Given a `list[str]`, this function will produce a `dict[str, int]` where each key is a unique value in the given list and each value associated is the _count_ of the number of times that value appeared in the input list."""
+    """Given a list[str], this function will produce a dict[str, int] where each key is a unique value in the given list and each value associated is the count of the number of times that value appeared in the input list."""
     result: dict[str, int] = {}
     for item in items:
         if item in result:
