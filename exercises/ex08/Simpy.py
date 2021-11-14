@@ -1,10 +1,10 @@
 """Utility class for numerical operations."""
 
-from __future__ import annotations
-
 from typing import Union
 
-__author__ = "YOUR PID HERE"
+from __future__ import annotations
+
+__author__ = "730384041"
 
 
 class Simpy:
