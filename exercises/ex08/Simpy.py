@@ -1,8 +1,8 @@
 """Utility class for numerical operations."""
 
-from typing import Union
-
 from __future__ import annotations
+
+from typing import Union
 
 __author__ = "730384041"
 
